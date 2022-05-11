@@ -5,7 +5,7 @@ My ROBLOX Multi-Tool bot will be releasing in a week or more, make sure to join 
 
 More Features will be added, you can suggest in the discord too.
 
-Current Features
+### Current Features ###
 ```
 Account Generator (working, threaded [15])
 Cookie Generator (working, checker, threaded [15])
@@ -15,14 +15,14 @@ Group Finder (working, threaded [15])
 Group Claimer (in-development, threaded[15])
 ```
 
-Price
+### Price ###
 There's no price, Its free and will probably be in-development for awhile.
 
-Source
+### Source ###
 We sadly aren't releasing any source, there will be .py files but obfuscated, also .exe files but you probably trust .py more.
 
 
-##Contributor##
+### Contributor ###
 ImJake
 
 
