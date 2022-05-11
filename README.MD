@@ -11,6 +11,7 @@ Account Generator (working, threaded [15])
 Cookie Generator (working, checker, threaded [15])
 Account Checker (in-development)
 Proxy Scraper (working, http/socks4/socks5)
+Proxy Checker (working, http/socks4/socks5)
 Group Finder (working, threaded [15])
 Group Claimer (in-development, threaded[15])
 ```
@@ -21,7 +22,10 @@ There's no price, Its free and will probably be in-development for awhile.
 ### Source ###
 We sadly aren't releasing any source, there will be .py files but obfuscated, also .exe files but you probably trust .py more.
 
+### Information ###
+Proxy Checker scrapes proxies, checks them, dumps them in a txt.
 
+I felt the need to keep Proxy Scraper for some reason, suggestions and bugs can be posted in the Issues section.
 ### Contributors ###
 ImJake
 
