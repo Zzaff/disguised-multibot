@@ -23,4 +23,4 @@ We sadly aren't releasing any source, there will be .py files but obfuscated, al
 
 
 ##Contributor##
-![ImJake](https://www.foxhosting.ga/images/imjake.gif)
+![ImJake](https://github.com/Zzaff/disguised-multibot/blob/main/logos/imjake.gif)
