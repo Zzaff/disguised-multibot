@@ -25,5 +25,5 @@ We sadly aren't releasing any source, there will be .py files but obfuscated, al
 ### Contributors ###
 ImJake
 
-...
+..
 ![](https://github.com/Zzaff/disguised-multibot/blob/main/logos/imjake.gif)
