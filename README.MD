@@ -22,7 +22,7 @@ There's no price, Its free and will probably be in-development for awhile.
 We sadly aren't releasing any source, there will be .py files but obfuscated, also .exe files but you probably trust .py more.
 
 
-### Contributor ###
+### Contributors ###
 ImJake
 
 
