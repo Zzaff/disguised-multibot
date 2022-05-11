@@ -6,4 +6,5 @@ Download the Whitelist (un-needed) [here](https://github.com/Zzaff/disguised-mul
 
 ### Safety
 
-Never trust anyone.
+Never trust anyone, ok.
+
