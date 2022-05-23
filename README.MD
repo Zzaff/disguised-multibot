@@ -1,19 +1,13 @@
 ![](https://github.com/Zzaff/disguised-multibot/blob/main/logos/logo.png)
 
 
-My ROBLOX Multi-Tool bot will be releasing in a week or more, make sure to join our [discord!](https://discord.gg/5ZuPsbJCKb)
+This multi-tool is a project I update not that often, if a bug is reported i will jump to it, if a suggestion is posted, i will jump to it when-possible, make sure to join our [discord!](https://discord.gg/5ZuPsbJCKb)
 
 More Features will be added, you can suggest in the discord too.
 
 ### Current Features ###
 ```
-Account Generator (working, threaded [15])
-Cookie Generator (working, checker, threaded [15])
-Account Checker (in-development)
-Proxy Scraper (working, http/socks4/socks5)
-Proxy Checker (working, http/socks4/socks5)
-Group Finder (working, threaded [15])
-Group Claimer (in-development, threaded[15])
+can be found in the RELEASES section!
 ```
 
 ### Price ###
